@@ -1,6 +1,6 @@
 # ba_reminder_notes_prod
  reminder notes :3
  
- ![all reminders](./images_for_git/#1.png?raw=true)
- ![create reminder](./images_for_git/#2.png?raw=true)
- ![reminder message](./images_for_git/#3.png?raw=true)
+ ![all reminders](https://github.com/xajiraqab/ba_reminder_notes_prod/blob/main/images_for_git/%231.png?raw=true)
+ ![create reminder](https://github.com/xajiraqab/ba_reminder_notes_prod/blob/main/images_for_git/%232.png?raw=true)
+ ![reminder message](https://github.com/xajiraqab/ba_reminder_notes_prod/blob/main/images_for_git/%233.png?raw=true)
