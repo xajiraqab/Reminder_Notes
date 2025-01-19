@@ -7,6 +7,7 @@ Reminder Notes is a simple program that allows you to set reminders for specific
 - Set reminders for specific times and days of the week.
 - Customize reminder messages.
 - Receive popup notifications when reminders are due.
+- One-time reminders will be deleted after notification
 
 ## Screenshots
  ![all reminders](https://github.com/xajiraqab/ba_reminder_notes_prod/blob/main/images_for_git/%231.png?raw=true)
